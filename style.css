@@ -20,7 +20,7 @@ nav {
   background: none;
   border: none;
   cursor: pointer;
-  color: black; /* warna ikon */
+  color: black;
 }
 
 .icon svg {
@@ -32,7 +32,7 @@ nav {
   background: none;
   border: none;
   cursor: pointer;
-  color: black; /* warna ikon */
+  color: black;
 }
 
 .btn svg {
